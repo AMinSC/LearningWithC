@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="getcharSample.c">
+    <ClCompile Include="..\StringInput\stringZero.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

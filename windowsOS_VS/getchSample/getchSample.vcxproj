@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{321cccc4-6a61-4a71-93ee-d4ae045e7d52}</ProjectGuid>
-    <RootNamespace>getcharSample</RootNamespace>
+    <ProjectGuid>{4c948852-6ef6-40ca-9e15-10cfc32ef86c}</ProjectGuid>
+    <RootNamespace>getchSample</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="getcharSample.c" />
+    <ClCompile Include="..\getcharSample\getchSample.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,5 +1,1 @@
-﻿  getcharSample.c
-  getchSample.c
-  코드를 생성하고 있습니다...
-getchSample.obj : error LNK2005: main이(가) getcharSample.obj에 이미 정의되어 있습니다.
-C:\Users\user\source\repos\LearningWithC\windowsOS_VS\x64\Debug\getcharSample.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  getcharSample.vcxproj -> C:\Users\user\source\repos\LearningWithC\windowsOS_VS\x64\Debug\getcharSample.exe
