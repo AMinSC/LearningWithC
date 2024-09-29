@@ -8,6 +8,7 @@
 ### C ###
 # Prerequisites
 *.d
+Scratch/
 
 # Object files
 *.o
