@@ -22,4 +22,7 @@ README update
             <br>자료형은 다른 말로 '수'이고, 수는 크게 변수와 상수입니다.
             <br>특히, 변수는 메모리 쓰는 문법이고, 메모리는 주소이자 위치정보, 즉, Location입니다.
     - l-value는 Overwrite가 발생하며 기존 값이 사라짐, 따라서 상수는 l-value가 될 수 없음
+- Endian [엔디언(Endianness)]
+  - Endian은 Little Endian과 Big Endian이 있으며, Little은 메모리가 큰곳에서 작은곳으로, Big은 작은곳에서 큰곳으로 작성됩니다.
+  - Intel CPU의 경우, 대부분 Little Endian을 채택하고 있습니다.
 
