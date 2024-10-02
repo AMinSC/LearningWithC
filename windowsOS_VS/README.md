@@ -25,4 +25,8 @@ README update
 - Endian [엔디언(Endianness)]
   - Endian은 Little Endian과 Big Endian이 있으며, Little은 메모리가 큰곳에서 작은곳으로, Big은 작은곳에서 큰곳으로 작성됩니다.
   - Intel CPU의 경우, 대부분 Little Endian을 채택하고 있습니다.
-
+- Short circuit
+    - SQL에서도 많이 사용함
+    - 논리합의 경우 왼쪽 조건이 만족되면 이후 식은 연산하지 않음
+    - 논리곱의 경우 마지막 식까지 모두 평가해, 모든 결과가 참인지 확인
+        - 따라서, 논리곱의 경우, 연산이 많은 것을 뒤쪽으로 두는것이 좋음
