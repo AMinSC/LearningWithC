@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exam_07", "Exam_07\Exam_07.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShortCircuit", "ShortCircuit\ShortCircuit.vcxproj", "{96D276F6-B939-4FD7-B276-02B9A17F444E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sizeofSample", "sizeofSample\sizeofSample.vcxproj", "{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{96D276F6-B939-4FD7-B276-02B9A17F444E}.Release|x64.Build.0 = Release|x64
 		{96D276F6-B939-4FD7-B276-02B9A17F444E}.Release|x86.ActiveCfg = Release|Win32
 		{96D276F6-B939-4FD7-B276-02B9A17F444E}.Release|x86.Build.0 = Release|Win32
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Debug|x64.ActiveCfg = Debug|x64
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Debug|x64.Build.0 = Debug|x64
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Debug|x86.Build.0 = Debug|Win32
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Release|x64.ActiveCfg = Release|x64
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Release|x64.Build.0 = Release|x64
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Release|x86.ActiveCfg = Release|Win32
+		{DADD7FCF-DA5F-4BBC-AADA-5632A9F048CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
