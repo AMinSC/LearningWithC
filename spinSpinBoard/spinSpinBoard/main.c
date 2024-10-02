@@ -5,7 +5,7 @@
 #define MAX_STRING_LENGTH 100
 #define MAX_ITEMS 20
 
-int main() {
+int main(void) {
     char categories[MAX_ITEMS][MAX_STRING_LENGTH];  // 1차 카테고리 배열
     char subcategories[MAX_ITEMS][MAX_ITEMS][MAX_STRING_LENGTH];  // 2차 항목 배열
     int numCategories, numSubcategories[MAX_ITEMS];
