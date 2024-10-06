@@ -1,2 +1,4 @@
 ﻿  main.c
+C:\Users\user\source\repos\LearningWithC\windowsOS_VS\Exam_12\main.c(13,21): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\LearningWithC\windowsOS_VS\Exam_12\main.c(16,21): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Exam_12.vcxproj -> C:\Users\user\source\repos\LearningWithC\windowsOS_VS\x64\Debug\Exam_12.exe

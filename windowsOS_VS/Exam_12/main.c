@@ -2,21 +2,21 @@
 
 int main(void)
 {
-	int age = 0, charge = 0;
+	int age = 0, charge = 1000, discount = 0;
 
 	scanf_s("%d", &age);
 
-	if (4 <= age && 13 >= age) {
-		charge = 500;
+	if (4 > age) {
+		discount = charge;
+	}
+	else if (4 <= age && 13 >= age) {
+		discount = charge * 0.5;
 	}
 	else if (14 <= age && 19 >= age) {
-		charge = 750;
-	}
-	else if (20 <= age) {
-		charge = 1000;
+		discount = charge * 0.25;
 	}
 
-	printf("나이: %d, 요금: %d\n", age, charge);
+	printf("나이: %d, 요금: %d\n", age, charge - discount);
 
 	return 0;
 }
