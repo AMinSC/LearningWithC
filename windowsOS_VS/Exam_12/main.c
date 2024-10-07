@@ -2,7 +2,8 @@
 
 int main(void)
 {
-	int age = 0, charge = 1000, discount = 0;
+	int age = 0, charge = 1000;
+	double discount = 0;
 
 	scanf_s("%d", &age);
 
@@ -16,7 +17,7 @@ int main(void)
 		discount = charge * 0.25;
 	}
 
-	printf("나이: %d, 요금: %d\n", age, charge - discount);
+	printf("나이: %d, 요금: %d\n", age, (int)(charge - discount));
 
 	return 0;
 }
