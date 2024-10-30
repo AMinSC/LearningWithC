@@ -1,3 +1,5 @@
+#### 프로젝트로 잠시 중단 : ~ 12.06
+
 ## desktop (Windows 11 OS)
 #### IDE: Visual Studio
 > **[독하게 시작하는 C 프로그래밍](https://www.inflearn.com/course/%EB%8F%85%ED%95%98%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-c%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/dashboard)** <br> 위 강의 내용 기반으로 학습한 내용을 기록합니다.
