@@ -1,5 +1,7 @@
 README update
 
+#### 프로젝트로 잠시 중단 : ~ 12.06
+
 #### built-in functions
 - getchar() / putchar()
     - Buffered I/O
